@@ -9,7 +9,7 @@
     <script src="https://unpkg.com/ionicons@latest/dist/ionicons.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
-    <title>SMP dan SMA Pesantren MKGR Kertasemaya</title>
+    <title>MI Ma'arif NU Jengglong</title>
     <meta name="description" content="SMP dan SMA Pesantren MKGR Kertasemaya">
     <meta name="keywords" content="SMP dan SMA Pesantren MKGR Kertasemaya">
 </head>

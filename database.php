@@ -15,9 +15,9 @@ class Database
         global $config;
 
         $this->host = $config['host'];
-        $this->user = $config['user'];
-        $this->pass = $config['pass'];
-        $this->db = $config['db'];
+        $this->user = $config['ulaya6463_miss'];
+        $this->pass = $config['ds8P)yHtwi+P'];
+        $this->db = $config['laya6463_presensi'];
 
         try {
             $this->koneksi = new PDO("mysql:host=$this->host; dbname=$this->db", $this->user, $this->pass);
